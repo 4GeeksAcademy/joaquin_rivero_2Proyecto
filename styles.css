@@ -1,0 +1,18 @@
+h1{
+    padding: 5px;
+    border: grey  1px;
+    margin: auto;
+}
+img{
+    margin-right: 50px;
+    width: 600px;
+    height: 400px;
+}
+p{
+    margin: auto;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
